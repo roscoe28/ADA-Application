@@ -40,8 +40,8 @@
 *For a complete acting résumé, click [here](http://www.carolroscoe.com/carolroscoe.com/Resume.html)*
  - Maintain business records, client files, tax files; develop and maintain on-line presence; research and write grants; research professional development; gather data and maintain knowledge base on current industry trends and opportunities; contact and develop relationships with diverse constituency of organizations and artists
  - Create and maintain social media profiles and business presence
- - In collaboration with artists and producers develop and produce new performance projects and opportunities  
- 
+ - In collaboration with artists and producers develop and produce new performance projects and opportunities    
+   
 |1998-2001|Seattle Shakespeare Company, Seattle, WA |Artistic Administrator|
 |:----|:----|----:| 
  - Provide admistrative support to Artistic Director
@@ -49,8 +49,9 @@
  - Liaise with Board of Directors to help plan, arrange, and oversee annual fundraiser
  - Create marketing and educational materials for season productions
  - Write support materials for education guides
- - Write and teach curriculum
- 1994-1997|The College Alumni Schools Committe, The University of Chicago, Chicago, IL |Admistrative Assistant|
+ - Write and teach curriculum  
+ 
+|1994-1997|The College Alumni Schools Committe, The University of Chicago, Chicago, IL |Admistrative Assistant|
 |:----|:----|----:|  
  - Maintain database of alumin events, college fairs, and alumni volunteers
  - Coordinate alumni attendance at College Fairs
