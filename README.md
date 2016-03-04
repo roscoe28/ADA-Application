@@ -50,8 +50,15 @@
  - Create marketing and educational materials for season productions
  - Write support materials for education guides
  - Write and teach curriculum
-
-*Technical skills* _Software_:Microsoft Word, Excel, Mac Pages, Scrivener, Final Draft, Photoshop (relearning), Quicken, Google docs, sheets, sites, basic video editing and website design, _Educational platorms_: Canvas, Haiku._Email_: Outlook, Mail, Gmail. _Programming_Markdown (beginning). _Accounting and Database_Access,Quickbooks
+ 1994-1997|The College Alumni Schools Committe, The University of Chicago, Chicago, IL |Admistrative Assistant|
+|:----|:----|----:|  
+ - Maintain database of alumin events, college fairs, and alumni volunteers
+ - Coordinate alumni attendance at College Fairs
+ - Provide resource and marketing materials for alumni representatives
+ - Coordinate with the Admissions office to arrange interviews between prospective students and alumni volunteers world-wide
+ - Plan, schedule and coordinate ASC Annual Meeting
+ - Arrange travel and lodging for ASC director admissions tour
+*Technical skills* _Software_:Microsoft Word, Excel, Mac Pages, Scrivener, Final Draft, Photoshop (relearning), Quicken, Google docs, sheets, sites, basic video editing and website design, _Educational platorms_: Canvas, Haiku._Email_: Outlook, Mail, Gmail. _Programming_Markdown (beginning). _Accounting and Database_Access, Quickbooks, Quicken
 
 ###Education  
 2003	M.F.A., Classical Acting, The Shakespeare Theater’s Academy of Classical Acting at George Washington University  
