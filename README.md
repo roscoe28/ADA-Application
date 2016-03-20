@@ -3,7 +3,7 @@
 ---------------
 
 ###Summary  
-20+ years of successful, award-winning performance and leadership within the theater and film industry. Strong self-learner with exceptional leadership, colloboration, and mentoring skills, proven track record of unifying and leading diverse creative teams to fulfill project specifications on time and on budget. Passion for learning, creative problem-solving, collaboration, leadership, organization, strategic thinking, excellent verbal and written communication skills, readiness to share information and effective strategies, an approach that seeks, values and incorporates advice and learns from errors, ability to adapt to changing circumstances, decisive, resourceful, understanding of basic accounting principles.
+20+ years of successful, award-winning performance and leadership within the theater and film industry. Strong self-learner with exceptional leadership, colloboration, and mentoring skills, proven track record of unifying and leading diverse creative teams to fulfill project specifications on time and on budget. Passion for learning, creative problem-solving, collaboration, leadership, organization, strategic thinking, excellent verbal and written communication skills, readiness to share information and effective strategies, an approach that seeks, values and incorporates advice and learns from errors, ability to adapt to changing circumstances, decisive, resourceful, understanding of basic accounting, business and graphic design principles.
   
 ###Professional Experience
 |2009-Present|Cornish College of the Arts, Seattle, WA|Affiliated Adjunct Faculty|
@@ -23,6 +23,13 @@
  - Direct students in collaborative projects  
  - Oversee scheduling, budgeting, recruitment, hiring, project management,  provide artistic vision and leadership for collaborative projects  
  - Mentor and support individual artists in developing projects, vision and process
+
+|2011-2014|Lakeside Upper & Middle School, Washington State| Part-Time Interim Drama Faculty|
+|:----|:----|----:|  
+Provide long-term interim teaching in the Middle School (2011) and Upper School (2013-14). 
+- Teach a combination of an  drama course(s) and direct co-curricular production
+- Collaborate on team-teaching courses.
+- Provide mentorship to arts students interested in exploring the profession.  
 
 |2009-Present|Various Employers, Washington State| Theater Director|
 |:----|:----|----:|
